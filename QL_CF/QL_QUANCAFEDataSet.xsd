@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QL_QUANCAFEDataSet" targetNamespace="http://tempuri.org/QL_QUANCAFEDataSet.xsd" xmlns:mstns="http://tempuri.org/QL_QUANCAFEDataSet.xsd" xmlns="http://tempuri.org/QL_QUANCAFEDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QL_QUANCAFEConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QL_QUANCAFEConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QL_CF.Properties.Settings.GlobalReference.Default.QL_QUANCAFEConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="INHOADONTableAdapter" GeneratorDataComponentClassName="INHOADONTableAdapter" Name="INHOADON" UserDataComponentName="INHOADONTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_QUANCAFEConnectionString1 (Settings)" DbObjectName="QL_QUANCAFE.dbo.INHOADON" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAHDBH, NGAYHD, TENBAN, TENHH, SOLUONG, GIASP, THANHTIEN, TONGTIEN FROM dbo.INHOADON</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAHDBH" DataSetColumn="MAHDBH" />
+              <Mapping SourceColumn="NGAYHD" DataSetColumn="NGAYHD" />
+              <Mapping SourceColumn="TENBAN" DataSetColumn="TENBAN" />
+              <Mapping SourceColumn="TENHH" DataSetColumn="TENHH" />
+              <Mapping SourceColumn="SOLUONG" DataSetColumn="SOLUONG" />
+              <Mapping SourceColumn="GIASP" DataSetColumn="GIASP" />
+              <Mapping SourceColumn="THANHTIEN" DataSetColumn="THANHTIEN" />
+              <Mapping SourceColumn="TONGTIEN" DataSetColumn="TONGTIEN" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QL_QUANCAFEDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QL_QUANCAFEDataSet" msprop:Generator_UserDSName="QL_QUANCAFEDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="INHOADON" msprop:Generator_TableClassName="INHOADONDataTable" msprop:Generator_TableVarName="tableINHOADON" msprop:Generator_TablePropName="INHOADON" msprop:Generator_RowDeletingName="INHOADONRowDeleting" msprop:Generator_RowChangingName="INHOADONRowChanging" msprop:Generator_RowEvHandlerName="INHOADONRowChangeEventHandler" msprop:Generator_RowDeletedName="INHOADONRowDeleted" msprop:Generator_UserTableName="INHOADON" msprop:Generator_RowChangedName="INHOADONRowChanged" msprop:Generator_RowEvArgName="INHOADONRowChangeEvent" msprop:Generator_RowClassName="INHOADONRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAHDBH" msprop:Generator_ColumnVarNameInTable="columnMAHDBH" msprop:Generator_ColumnPropNameInRow="MAHDBH" msprop:Generator_ColumnPropNameInTable="MAHDBHColumn" msprop:Generator_UserColumnName="MAHDBH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NGAYHD" msprop:Generator_ColumnVarNameInTable="columnNGAYHD" msprop:Generator_ColumnPropNameInRow="NGAYHD" msprop:Generator_ColumnPropNameInTable="NGAYHDColumn" msprop:Generator_UserColumnName="NGAYHD" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TENBAN" msprop:Generator_ColumnVarNameInTable="columnTENBAN" msprop:Generator_ColumnPropNameInRow="TENBAN" msprop:Generator_ColumnPropNameInTable="TENBANColumn" msprop:Generator_UserColumnName="TENBAN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENHH" msprop:Generator_ColumnVarNameInTable="columnTENHH" msprop:Generator_ColumnPropNameInRow="TENHH" msprop:Generator_ColumnPropNameInTable="TENHHColumn" msprop:Generator_UserColumnName="TENHH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SOLUONG" msprop:Generator_ColumnVarNameInTable="columnSOLUONG" msprop:Generator_ColumnPropNameInRow="SOLUONG" msprop:Generator_ColumnPropNameInTable="SOLUONGColumn" msprop:Generator_UserColumnName="SOLUONG" type="xs:int" />
+              <xs:element name="GIASP" msprop:Generator_ColumnVarNameInTable="columnGIASP" msprop:Generator_ColumnPropNameInRow="GIASP" msprop:Generator_ColumnPropNameInTable="GIASPColumn" msprop:Generator_UserColumnName="GIASP" type="xs:int" minOccurs="0" />
+              <xs:element name="THANHTIEN" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTHANHTIEN" msprop:Generator_ColumnPropNameInRow="THANHTIEN" msprop:Generator_ColumnPropNameInTable="THANHTIENColumn" msprop:Generator_UserColumnName="THANHTIEN" type="xs:int" minOccurs="0" />
+              <xs:element name="TONGTIEN" msprop:Generator_ColumnVarNameInTable="columnTONGTIEN" msprop:Generator_ColumnPropNameInRow="TONGTIEN" msprop:Generator_ColumnPropNameInTable="TONGTIENColumn" msprop:Generator_UserColumnName="TONGTIEN" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:INHOADON" />
+      <xs:field xpath="mstns:MAHDBH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

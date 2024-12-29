@@ -1,0 +1,155 @@
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\bin\Debug\QL_CF.exe.config
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\bin\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\bin\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.GenerateResource.cache
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_Menu.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_HoaDon.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ThongKe.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_KhachHang.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_NhanVien.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_main.resources
+C:\Users\xuanb\TL Nam2\CN .NET\QL_CF\QL_CF\obj\Debug\QL_CF.frm_thongtin.resources
+G:\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe.config
+G:\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe
+G:\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.pdb
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.AssemblyReference.cache
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_HoaDon.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_KhachHang.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_main.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_Menu.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_NhanVien.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ThongKe.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_thongtin.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.Properties.Resources.resources
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.GenerateResource.cache
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.CoreCompileInputs.cache
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.exe
+G:\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe.config
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_HoaDon.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_KhachHang.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_main.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_Menu.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_NhanVien.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ThongKe.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_thongtin.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.GenerateResource.cache
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ctLuong.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_DangNhap.resources
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.dll
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.xml
+C:\Users\xuanb\TL Nam2\Test DoAn\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.Up2Date
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe.config
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.pdb
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.dll
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.xml
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.AssemblyReference.cache
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ctLuong.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_DangNhap.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_HoaDon.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_KhachHang.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_main.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_Menu.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_NhanVien.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ThongKe.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_thongtin.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.Properties.Resources.resources
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.GenerateResource.cache
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.CoreCompileInputs.cache
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.Up2Date
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.exe
+G:\New folder\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe.config
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Guna.UI.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Buffers.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Memory.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\System.ValueTuple.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ctLuong.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_DangNhap.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_main.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_NhanVien.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ThongKe.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_thongtin.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.GenerateResource.cache
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.csproj.Up2Date
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.exe
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.pdb
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_ban.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_Kho.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_nhaphang.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_HoaDon.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.inhoaodon.resources
+C:\Users\xuanb\TL Nam2\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\QL_CF\obj\Debug\QL_CF.frm_saoluu.resources
